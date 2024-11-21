@@ -1,4 +1,4 @@
-sentence-transformers==2.2.2  ## opensource embedding model
+sentence-transformers  ## opensource embedding model
 langchain
 flask
 pypdf
