@@ -30,7 +30,7 @@ RAG Pipeline: For combining retrieval with generative AI.
 #################################################################################################################################################################
 Setup Instructions
 Clone the repository.
-git clone https://github.com/your-username/medical-chatbot.git  
+git clone https://github.com/rohitmukati/End-to-End-Medical-Chatbot-Generative-AI
 
 Install dependencies:
 pip install -r requirements.txt  
